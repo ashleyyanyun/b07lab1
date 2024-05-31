@@ -1,1 +1,9 @@
-this is a file for the first lab of CSCB07.
+this is a file for the second lab of CSCB07.
+
+Modified Polynomial.java to store two arrays representing coefficients and exponents instead of one array representing coefficients
+Updated existing methods accordingly
+
+Added public Multiply method
+Added Constructor with file argument
+Added public saveToFile method
+Added private print helper method
